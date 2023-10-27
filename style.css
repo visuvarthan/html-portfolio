@@ -1,0 +1,24 @@
+h1{
+    text-transform: capitalize;
+    font-size: xx-large;
+}
+*{
+    background-color: black;
+}
+img{
+    border: 5px solid teal;
+    width: 100%;
+}
+.d1{
+    text-align: center;
+    color: teal;
+    font-family: 'Libre Baskerville', serif;
+}
+.d2{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: teal;
+    font-family: 'Libre Baskerville', serif;
+}
